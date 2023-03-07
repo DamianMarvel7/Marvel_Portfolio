@@ -6,4 +6,5 @@ Data science portfolio
 - Engineer the feature by making new feature or transforming and scaling
 - Optimize xgboost using RandomSearchCV to get the best model
 - Pipelining to make deployment easier
+
 ![](/download.png)
